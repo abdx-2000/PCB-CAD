@@ -14,3 +14,4 @@
 <img width="1396" height="827" alt="لقطة شاشة 2026-02-25 154701" src="https://github.com/user-attachments/assets/0868b7de-4548-4e5d-b02d-013c7a7b97a9" />
 # PCB-CAD
 Electronic Design
+<img width="1476" height="1041" alt="image" src="https://github.com/user-attachments/assets/04524f3c-1736-4f40-9737-b97664346690" />
